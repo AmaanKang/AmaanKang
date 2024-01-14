@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile!
 
-I work as a Software Tester in Canada, I am highly inspired by the innovation in Computer Science industry. When I am not in the office, I might be working on side projects or learning about the latest trends in software development. Other than that, I love exercising, cooking and enjoying every day in my life.
+I work as a Software Tester, I am highly inspired by the innovation in Computer Science industry. When I am not in the office, I might be working on side projects or learning about the latest trends in software development.
 I can be contacted via amankang344@gmail.com
 <!--
 **Aman-Kang/Aman-Kang** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
